@@ -7,7 +7,7 @@ public class Card implements Comparable<Card> {
      * The suit of this Card.
      */
     private Suit suit;
-
+//test
     /**
      * The rank, or face value, of this Card.
      */
